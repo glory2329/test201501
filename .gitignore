@@ -1,5 +1,5 @@
   #忽略bin obj文件夹
-  obj
-  bin
-  Bin
-  binobj
+  obj/
+  bin/
+  Bin/
+  binobj/
