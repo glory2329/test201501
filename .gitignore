@@ -3,3 +3,9 @@
   bin/
   Bin/
   binobj/
+  
+  
+  /obj
+  /bin
+  /Bin
+  /binobj
